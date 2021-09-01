@@ -1,0 +1,51 @@
+body{
+    background-color: #d8d8d8;
+    margin: 0;
+    padding: 0;
+}
+
+header{
+    background-color: #fff;
+    padding: 1em;
+    
+}
+
+header h1{
+    width: 50%;
+    text-align: left;
+    margin: 0;
+    margin-left: 25%;
+}
+
+main{
+    width: 50%;
+    margin: 0 auto;
+}
+
+section{
+    margin: 3em 0;
+    background-color: #fff;
+}
+
+.tittle-post{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 1em;
+}
+
+.img-post{
+    width: 100%;
+}
+
+.img-post img{
+    width: 100%;
+    display: block;
+    margin: 0 auto;
+}
+
+.foot-post{
+    display: block;
+    margin: 0;
+    padding: 0.2em 1em;
+}
